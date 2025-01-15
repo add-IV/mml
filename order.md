@@ -1,0 +1,28 @@
+# Order of topics
+
+- paper
+- nlp tasks
+- embeddings
+  - cosine similarity
+  - Superposition
+
+- Attention
+
+-----
+
+- Multi-Head Attention
+- Cross-Attention
+
+- comparison to other models
+  - RNN, LSTM, GRU, CNN
+
+- Optimizations
+  - Output Matrix Splitting
+  - reuse of weights
+  - ease of training (parallelization)
+  - other attention mechanisms
+
+- other considerations
+  - Masking
+  - Positional Encoding
+  - Context Size and its implications
