@@ -12,6 +12,12 @@
 
 - Multi-Head Attention
 - Cross-Attention
+- complete transformer model
+
+
+- transformer variants
+  - other attention mechanisms
+  - other applications of transformers (e.g. stable diffusion)
 
 - comparison to other models
   - RNN, LSTM, GRU, CNN
@@ -20,7 +26,6 @@
   - Output Matrix Splitting
   - reuse of weights
   - ease of training (parallelization)
-  - other attention mechanisms
 
 - other considerations
   - Masking
