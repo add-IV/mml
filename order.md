@@ -18,6 +18,8 @@
 - transformer variants
   - other attention mechanisms
   - other applications of transformers (e.g. stable diffusion)
+ 
+-----
 
 - comparison to other models
   - RNN, LSTM, GRU, CNN
