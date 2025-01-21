@@ -12,17 +12,16 @@ Tony
 
 -----
 
-Frederick 
+Frederick
 
 - Multi-Head Attention
 - Cross-Attention
 - complete transformer model
 
-
 - transformer variants
   - other attention mechanisms
   - other applications of transformers (e.g. stable diffusion)
- 
+
 -----
 
 Other topics

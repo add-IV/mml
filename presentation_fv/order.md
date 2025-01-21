@@ -1,5 +1,7 @@
 # Order of topics
 
+Tony
+
 - paper
 - nlp tasks
 - embeddings
@@ -10,17 +12,19 @@
 
 -----
 
+Frederick
+
 - Multi-Head Attention
 - Cross-Attention
 - complete transformer model
 
------
-
-Other topics
-
 - transformer variants
   - other attention mechanisms
   - other applications of transformers (e.g. stable diffusion)
+
+-----
+
+Other topics
 
 - comparison to other models
   - RNN, LSTM, GRU, CNN
