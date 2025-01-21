@@ -1,17 +1,5 @@
 # Order of topics
 
-Tony
-
-- paper
-- nlp tasks
-- embeddings
-  - cosine similarity
-  - Superposition
-
-- Attention
-
------
-
 Frederick
 
 - Multi-Head Attention

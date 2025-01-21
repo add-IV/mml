@@ -7,7 +7,6 @@ Tony
 - embeddings
   - cosine similarity
   - Superposition
-
 - Attention
 
 -----
