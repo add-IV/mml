@@ -157,7 +157,7 @@ $$W^O = \text{Vertcat}(W^O_1, ..., W^O_h)$$
 
 ## Training
 
-Parallelization:
+### Parallelization
 
 - Unlike RNNs, no sequential dependencies between inputs
 - Just a bunch of matrix multiplications that can be parallelized very well with modern hardware (GPUs, TPUs)
@@ -165,6 +165,31 @@ Parallelization:
 - Efficient use of training data
 
 ![h:150](dl-visuals/RNNs/rnn2.png)
+
+
+---
+
+<!-- header: Training -->
+
+## Training: Example GPT-2 vs GPT-3
+
+<div class="columns">
+<div>
+
+### GPT-2
+
+- 1.5B parameters
+- 40 Gb of data
+
+</div>
+<div>
+
+### GPT-3
+
+- 176B parameters
+- 570 Gb of data
+
+</div>
 
 ---
 
